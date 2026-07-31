@@ -25,6 +25,10 @@ body {
 
 h1, p {margin: 10px 0;}
 
+h1 {transition: transform .3s ease;}
+
+h1.active {transform: scale(1.05);}
+
 button {
     text-align: center;
     padding: 14px 28px;
@@ -41,7 +45,11 @@ button:hover {
     background-color: #2563EB;
 }
 
-button:disabled {
-    background-color: #64748B;
-    cursor: not-allowed;
+.mensaje {
+    opacity: 0;
+    transition: opacity .3s ease;
+}
+
+.mensaje.visible {
+    opacity: 1;
 }
