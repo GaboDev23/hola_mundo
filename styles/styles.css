@@ -1,12 +1,14 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
+}
+
+body, h1, p, button {
     text-align: center;
     background-color: #0F172A;
     color: white;
-}
-
-h1, p, button {
-    background-color: #1E293B;
     padding: 24px;
     margin: 10px 0;
 }
