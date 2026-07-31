@@ -1,19 +1,30 @@
-# Hola Mundo
+# 🌎 Hola Mundo V4
 
-Mi primer proyecto utilizando HTML, CSS y JavaScript.
+Primer proyecto de desarrollo web utilizando **HTML, CSS y JavaScript**.
 
-## Tecnologías
+Esta versión agrega interacción con el usuario mediante manipulación del DOM, contador de clics y animaciones.
+
+## 🚀 Funcionalidades
+
+- Cambio dinámico del título al presionar el botón.
+- Contador de clics con manejo de singular/plural.
+- Mensaje de agradecimiento con animación.
+- Diseño moderno con CSS.
+
+## 🛠️ Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Funcionalidades
+## 📚 Conceptos practicados
 
-- Muestra un mensaje de bienvenida.
-- Cambia el título al hacer clic.
-- Deshabilita el botón después del primer clic.
+- Estructura HTML.
+- Diseño con CSS y Flexbox.
+- Manipulación del DOM.
+- Eventos en JavaScript.
+- Uso de clases dinámicas y transiciones.
 
-## Autor
+## 👨‍💻 Autor
 
 Gabriel
